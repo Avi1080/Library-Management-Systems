@@ -497,6 +497,6 @@ This project demonstrates the application of SQL skills in creating and managing
 
 This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/abhishek-shakya-31147b346/)
-- **Website_Profile**: [Join our community for learning and collaboration](https://aviskya1080.wixsite.com/my-site-5)
+- **Website_Profile**: [Visit my website] (https://aviskya1080.wixsite.com/my-site-5)
 
 Thank you for your interest in this project!
